@@ -1,0 +1,13 @@
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\bin\Debug\InboxRetriever.exe.config
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\bin\Debug\InboxRetriever.exe
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\bin\Debug\InboxRetriever.pdb
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\bin\Debug\InboxRetriever.xml
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\obj\Debug\InboxRetriever.Form1.resources
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\obj\Debug\InboxRetriever.Resources.resources
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\obj\Debug\InboxRetriever.vbproj.GenerateResource.Cache
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\obj\Debug\InboxRetriever.exe
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\obj\Debug\InboxRetriever.xml
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\obj\Debug\InboxRetriever.pdb
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\bin\Debug\S22.Imap.dll
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\bin\Debug\S22.Imap.xml
+D:\Developments\POS\Warehouse\InboxRetriever\InboxRetriever\obj\Debug\InboxRetriever.vbprojResolveAssemblyReference.cache
